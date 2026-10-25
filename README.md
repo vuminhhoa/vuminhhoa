@@ -20,9 +20,8 @@ Outside work I build local-first apps and self-host them on my own VPS, then wri
 
 ## Recent writing
 
-<!-- BLOG-POST-LIST:START -->
-- [One Keycloak for several apps: realms, audiences and quiet failures](https://vuminhhoa.com/en/blog/self-hosted-keycloak-multiple-apps)
-- [Exactly-once doesn't come for free: Kafka, Flink and ClickHouse](https://vuminhhoa.com/en/blog/exactly-once-kafka-flink-clickhouse)
+<!-- BLOG-POST-LIST:START -->- [One Keycloak for several apps: realms, audiences and quiet failures](https://vuminhhoa.com/en/blog/self-hosted-keycloak-multiple-apps)
+- [Exactly-once doesn’t come for free: Kafka, Flink and ClickHouse](https://vuminhhoa.com/en/blog/exactly-once-kafka-flink-clickhouse)
 - [A tamper-evident audit log in PostgreSQL with hash chains and HMAC](https://vuminhhoa.com/en/blog/tamper-evident-audit-log-postgresql)
 - [Server-Sent Events in Spring Boot: Redis Pub/Sub and slow clients](https://vuminhhoa.com/en/blog/spring-boot-sse-redis-pubsub)
 - [Time in Apache Flink: watermarks, idle partitions, state TTL and replay](https://vuminhhoa.com/en/blog/flink-event-time-watermarks-replay)
