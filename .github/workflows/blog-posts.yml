@@ -1,10 +1,17 @@
 name: Update blog posts
 
 # Refreshes the "Recent writing" list in README.md from the blog's Atom feed.
+# The portfolio repo dispatches `blog-updated` after each production deploy;
+# the daily run is a fallback.
 on:
+  repository_dispatch:
+    types: [blog-updated]
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: blog-posts
 
 permissions:
   contents: write
