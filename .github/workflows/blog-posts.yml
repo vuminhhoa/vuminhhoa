@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://vuminhhoa.com/en/feed.xml"
           max_post_count: 6
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Update recent writing from the blog"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
