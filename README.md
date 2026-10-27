@@ -21,12 +21,12 @@ Outside work I build local-first apps and self-host them on my own VPS, then wri
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Forking a GPL library and publishing it on npm without losing upstream](https://vuminhhoa.com/en/blog/forking-gpl-library-yoastseo-npm)
 - [DarkSword on iPhone: the six-bug chain, P7, and which iOS is safe](https://vuminhhoa.com/en/blog/darksword-iphone-exploit-chain)
 - [One Keycloak for several apps: realms, audiences and quiet failures](https://vuminhhoa.com/en/blog/self-hosted-keycloak-multiple-apps)
 - [Auditing an SEO checker against Google’s docs, and silent scoring bugs](https://vuminhhoa.com/en/blog/seo-checker-google-guidance-scoring-bugs)
 - [Exactly-once doesn’t come for free: Kafka, Flink and ClickHouse](https://vuminhhoa.com/en/blog/exactly-once-kafka-flink-clickhouse)
-- [A tamper-evident audit log in PostgreSQL with hash chains and HMAC](https://vuminhhoa.com/en/blog/tamper-evident-audit-log-postgresql)
-- [Server-Sent Events in Spring Boot: Redis Pub/Sub and slow clients](https://vuminhhoa.com/en/blog/spring-boot-sse-redis-pubsub)<!-- BLOG-POST-LIST:END -->
+- [A tamper-evident audit log in PostgreSQL with hash chains and HMAC](https://vuminhhoa.com/en/blog/tamper-evident-audit-log-postgresql)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://vuminhhoa.com/en/blog)
 
