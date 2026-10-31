@@ -21,12 +21,12 @@ Outside work I build local-first apps and self-host them on my own VPS, then wri
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP2Shell &lpar;CVE-2026-109618/109619&rpar;: check your version, patch, mitigate](https://vuminhhoa.com/en/blog/php2shell-check-patch-mitigate)
 - [AI and the October 2026 vulnerability storm: what the numbers show](https://vuminhhoa.com/en/blog/ai-vulnerability-surge-october-2026)
 - [Bugs in a teaching ext2 simulator, and the tests that keep them fixed](https://vuminhhoa.com/en/blog/ext2-simulator-bugs-model-fuzzing)
 - [Forking a GPL library and publishing it on npm without losing upstream](https://vuminhhoa.com/en/blog/forking-gpl-library-yoastseo-npm)
 - [DarkSword on iPhone: the six-bug chain, P7, and which iOS is safe](https://vuminhhoa.com/en/blog/darksword-iphone-exploit-chain)
-- [One Keycloak for several apps: realms, audiences and quiet failures](https://vuminhhoa.com/en/blog/self-hosted-keycloak-multiple-apps)
-- [Auditing an SEO checker against Google’s docs, and silent scoring bugs](https://vuminhhoa.com/en/blog/seo-checker-google-guidance-scoring-bugs)<!-- BLOG-POST-LIST:END -->
+- [One Keycloak for several apps: realms, audiences and quiet failures](https://vuminhhoa.com/en/blog/self-hosted-keycloak-multiple-apps)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://vuminhhoa.com/en/blog)
 
