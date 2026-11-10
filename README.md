@@ -21,12 +21,12 @@ Outside work I build local-first apps and self-host them on my own VPS, then wri
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [A strict CSP and Trusted Types for a Vite single-page app](https://vuminhhoa.com/en/blog/csp-trusted-types-vite-spa)
 - [Building a small site with AI agents and BMAD: what the paperwork bought](https://vuminhhoa.com/en/blog/ai-agent-bmad-side-project-review)
 - [Reporting browser errors without sending user data](https://vuminhhoa.com/en/blog/client-error-reporting-no-user-data)
 - [PHP2Shell &lpar;CVE-2026-109618/109619&rpar;: check your version, patch, mitigate](https://vuminhhoa.com/en/blog/php2shell-check-patch-mitigate)
 - [AI and the October 2026 vulnerability storm: what the numbers show](https://vuminhhoa.com/en/blog/ai-vulnerability-surge-october-2026)
-- [Bugs in a teaching ext2 simulator, and the tests that keep them fixed](https://vuminhhoa.com/en/blog/ext2-simulator-bugs-model-fuzzing)
-- [Forking a GPL library and publishing it on npm without losing upstream](https://vuminhhoa.com/en/blog/forking-gpl-library-yoastseo-npm)<!-- BLOG-POST-LIST:END -->
+- [Bugs in a teaching ext2 simulator, and the tests that keep them fixed](https://vuminhhoa.com/en/blog/ext2-simulator-bugs-model-fuzzing)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://vuminhhoa.com/en/blog)
 
